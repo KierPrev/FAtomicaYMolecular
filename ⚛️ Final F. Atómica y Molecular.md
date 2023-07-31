@@ -1,9 +1,6 @@
 
 #FAYM
 
-Fecha examen:  01/07
-Días: 35
-2.69 días por bolilla
 
 ## VIT
 - <mark style="background: #FFF3A3A6;">Relatividad</mark>
